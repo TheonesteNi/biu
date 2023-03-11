@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html> // c'est formidable 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
